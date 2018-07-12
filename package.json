@@ -1,0 +1,37 @@
+{
+  "name": "test-task",
+  "version": "1.0.1",
+  "description": "Editor-form",
+  "author": "Kirill Vlasyuk",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --open",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@angular/animations": "^6.0.7",
+    "@angular/cdk": "^6.3.3",
+    "@angular/common": "~6.0.0",
+    "@angular/compiler": "~6.0.0",
+    "@angular/core": "~6.0.0",
+    "@angular/forms": "~6.0.0",
+    "@angular/material": "^6.3.3",
+    "@angular/platform-browser": "~6.0.0",
+    "@angular/platform-browser-dynamic": "~6.0.0",
+    "@angular/router": "~6.0.0",
+    "@material/textfield": "^0.37.0",
+    "core-js": "^2.5.5",
+    "html5-boilerplate": "~6.1.0",
+    "rxjs": "^6.1.0",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "@types/node": "~10.0.4",
+    "typescript": "^2.8.3",
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.2",
+    "webpack-dev-server": "^3.1.4",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^5.0.0",
+    "uglifyjs-webpack-plugin": "^1.2.5"
+  }
+}

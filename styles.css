@@ -1,0 +1,42 @@
+body {
+    font-family: Roboto, Arial, sans-serif;
+    margin: 0;
+}
+
+.basic-container {
+    padding: 30px;
+}
+
+.version-info {
+    font-size: 8pt;
+    float: right;
+}
+
+.form-left{
+    width:400px;
+    float: left;
+}
+
+.form-right{
+    width:100%;
+}
+
+.form-label{
+    font-size: 8pt;
+}
+
+#bottom{
+    clear:both;
+}
+
+#top{
+    width:500px;
+}
+
+.output-field{
+    width:300px;
+}
+
+.input-field{
+    width:300px;
+}
